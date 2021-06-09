@@ -8,16 +8,16 @@
         "url": "http://github.com/awslabs/aws-lambda-fanout/issues"
     },
     "dependencies": {
-        "aws-kinesis-agg": "4.0.3",
-        "async": "3.1.0"
+        "aws-kinesis-agg": "4.1.4",
+        "async": "3.2.0"
     },
     "description": "An Amazon Kinesis Streams and Amazon DynamoDB Streams pipeline written for AWS Lambda",
     "scripts": {
         "test": "mocha"
     },
     "devDependencies": {
-        "mocha": "6.2.2",
-        "aws-sdk": "2.578.0"
+        "mocha": "8.3.2",
+        "aws-sdk": "2.872.0"
     },
     "files": [
         "lib",
